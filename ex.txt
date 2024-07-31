@@ -1,2 +1,8 @@
 hello 
+<<<<<<< HEAD
 hi 
+=======
+hi 
+dyycfhj
+>>>>>>> feature
+git
